@@ -42,6 +42,8 @@
 *.pl        text
 *.rb        text
 *.php       text
+*.r         text
+*.R         text
 
 *.hs        text
 *.lhs       text
